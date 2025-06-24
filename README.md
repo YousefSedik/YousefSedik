@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Yousef
 
 🎓 I'm a Computer Science student at the Faculty of Computers and Artificial Intelligence, Damietta University — expected to graduate in 2026.  
-💻 I'm passionate about backend development, systems programming, and full IoT solutions.  
+💻 I'm passionate about backend development, artificial intelligence, cloud.  
 
 ---
 
 ## 🚀 My Tech Stack
 
 - **Languages**: Python, C++, Go, C#, JavaScript  
-- **Frameworks**: Django, FastAPI, Flask, .NET MVC
+- **Frameworks**: Django, FastAPI, Flask
 - **DevOps & Tools**: Docker, Git, Azure, PostgreSQL, Redis, Celery, Selenium  
 ---
 
