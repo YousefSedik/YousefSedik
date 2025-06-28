@@ -8,7 +8,6 @@
 ## 🛠️ Projects I'm Working On
 - **Smart Universal Remote**: A full IoT solution using ESP32 + mobile app + Django API to control home devices via IR.  
 - **Auto Job Applier (SaaS)**: A CLI + web dashboard that automates job applications using Selenium.  
-- **Collaborative Code Editor**: Real-time file editing with WebSocket support and user collaboration.  
 ---
 
 ## 🎯 Interests
