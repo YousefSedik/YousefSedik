@@ -18,7 +18,6 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yousef-a-azeem-sedik/)
-- 🐙 [GitHub](https://github.com/YousefSedik)  
 - ✉️ Feel free to reach me about open source, collaborations, or internships.
 
 ---
